@@ -9,8 +9,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cs,nextjs,mysql,php,laravel,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,nodejs,react" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,cs,nextjs,mysql,php,laravel,unity" />
 </div>
 
 <br/>
